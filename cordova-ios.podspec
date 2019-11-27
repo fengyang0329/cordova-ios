@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "cordova-ios"
   spec.module_name = "Cordova"
-  spec.version      = "2.0.1"
+  spec.version      = "2.1.1"
   spec.summary      = "Cordova iOS"
 
   # This description is used to generate tags and improve search results.
