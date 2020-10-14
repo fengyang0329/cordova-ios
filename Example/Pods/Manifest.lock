@@ -1,0 +1,16 @@
+PODS:
+  - cordova-ios (0.0.2)
+
+DEPENDENCIES:
+  - cordova-ios (from `../`)
+
+EXTERNAL SOURCES:
+  cordova-ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cordova-ios: 3384f1de2f4b268cc308589d295a44e41c751933
+
+PODFILE CHECKSUM: 3a15dfe1d2cea143745e0743fd3f937c5a6cc868
+
+COCOAPODS: 1.8.4
