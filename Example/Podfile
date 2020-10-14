@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'cordova-ios_Example' do
+  pod 'cordova-ios', :path => '../'
+
+  target 'cordova-ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
